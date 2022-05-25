@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "UnitConversion\\UnitConversion\\": "src"
+            "Suraj\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "UnitConversion\\UnitConversion\\Tests\\": "tests"
+            "Suraj\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
