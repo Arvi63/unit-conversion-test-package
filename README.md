@@ -12,7 +12,7 @@ Unit conversion Test PHP package
 You can install the package via composer:
 
 ```bash
-composer require unitconversion/unit-conversion
+composer require arvi/unit-conversion
 ```
 
 ## Usage
