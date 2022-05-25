@@ -20,4 +20,3 @@ class WeightTest extends TestCase
 //it('can test', function () {
 //    expect(true)->toBeTrue();
 //});
-
