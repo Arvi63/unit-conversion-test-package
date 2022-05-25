@@ -2,7 +2,7 @@
 # This is my package unit-conversion
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/arvi/unit-conversion.svg?style=flat-square)](https://packagist.org/packages/arvi/unit-conversion)
-[![Tests](https://github.com/Arvi63/unit-conversion-test-package/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/arvi/unit-conversion/actions/workflows/run-tests.yml)
+[![Tests](https://github.com/Arvi63/unit-conversion-test-package/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/Arvi63/unit-conversion-test-package/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/arvi/unit-conversion.svg?style=flat-square)](https://packagist.org/packages/arvi/unit-conversion)
 
 Unit conversion Test PHP package
